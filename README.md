@@ -1,12 +1,12 @@
 # AR-Street-Art-Advertisement-App
 An AR application to advertised a selected brand (for university coursework purpose).
-Objective of the application:
-I.	To design and create an augmented reality application to help street art artist to design their street art with their smartphone. 
-II.	To create an augmented reality application to promote and advertise products.
-III.	To enhance user sensory experiences using augmented reality. 
+<br/>Objective of the application:
+<br/>I.	To design and create an augmented reality application to help street art artist to design their street art with their smartphone. 
+<br/>II.	To create an augmented reality application to promote and advertise products.
+<br/>III.	To enhance user sensory experiences using augmented reality. 
 
 
-Screenshots of applications:
+<br/>Screenshots of applications:
 
 
 ![image](https://user-images.githubusercontent.com/44870863/67769943-56341800-fa90-11e9-956f-80391f030e8f.png)

@@ -1,14 +1,13 @@
 # AR-Street-Art-Advertisement-App
 An AR application to advertised selected brand (for university coursework purpose) with the use of GPS detection. For this aplication, there will be 3 places that will be the location for the augmented reality content. This application is completed together with 2 other group members.
-
-<br/>Objective of the application:
-<br/>I.	To design and create an augmented reality application to help street art artist to design their street art with their smartphone. 
+</br><b>VERY IMPORTANT: The application developed is for completing university coursework purpose only. The brand/advertisement selected is for completing university coursework purpose only.</b>
+<h3>Objective of the application:</h3>
+I.	To design and create an augmented reality application to help street art artist to design their street art with their smartphone. 
 <br/>II.	To create an augmented reality application to promote and advertise products.
 <br/>III.	To enhance user sensory experiences using augmented reality. 
 
-<br/>Screenshots of applications:
-
-<br/>1. Interface to allow user to start or exit application.
+<h3>Screenshots of applications:</h3>
+1. Interface to allow user to start or exit application.
 
 ![image](https://user-images.githubusercontent.com/44870863/67769943-56341800-fa90-11e9-956f-80391f030e8f.png)
 

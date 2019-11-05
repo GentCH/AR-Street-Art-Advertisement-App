@@ -37,4 +37,4 @@ I.	To design and create an augmented reality application to help street art arti
 
 ![image](https://user-images.githubusercontent.com/44870863/67770091-a3b08500-fa90-11e9-93ee-d28279cb6ccb.png)
 
-![IMG_20191025_102620](https://user-images.githubusercontent.com/50301238/68188719-c1c43b00-ffe4-11e9-937b-b2e26a3d3fa2.jpg)
+

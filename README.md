@@ -37,4 +37,10 @@ I.	To design and create an augmented reality application to help street art arti
 
 ![image](https://user-images.githubusercontent.com/44870863/67770091-a3b08500-fa90-11e9-93ee-d28279cb6ccb.png)
 
+</br> 8. Interface on Mini Stadium of University Malaysia Pahang. This interface will only be shown when the user's location is adjacent to the Mini Stadium.
+![image](https://user-images.githubusercontent.com/50301238/68370656-f74d5d80-0177-11ea-82dd-0e4b68e1a7c6.png)
+
+</br> 9. A 3D model of a dumbell. Lean touch is implemented onto the 3D model. User can scale and rotate the dumbell. 
+
+![image](https://user-images.githubusercontent.com/50301238/68371235-35974c80-0179-11ea-8447-2c27e32b66a3.png)
 
